@@ -1,2 +1,2 @@
-# LearnCodeing
+# LearnCoding
 All My Code
